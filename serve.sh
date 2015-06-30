@@ -1,0 +1,1 @@
+docker run -e LAPIS_ENVIRONMENT=development -p 8080:8080 -v /$(pwd):/app 139580ff
